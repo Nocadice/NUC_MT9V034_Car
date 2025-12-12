@@ -1,3 +1,4 @@
 # NUC_MT9V034_Car
-我很难受
+
+MCU TC377
 Based on Seekfree_lib
